@@ -6,12 +6,12 @@ Now it also has a scrollbar when there's too many objects to fit in the context 
 
 ## How to install
 
-Just import the latest ContextClickSelect package into your project and you're ready to go.\n
+Download the latest ContextClickSelect package from Releases.
+
+You can unzip the provided file on your "Packages" directory for embedding it into your project, or you can put it anywhere and just add it from package manager.
+Also, you can add it with the git url: https://github.com/MatiM36/ContextClickSelectV2.git?path=/Packages/com.mati36.contextclickselect
 
 ![Example](GitAsset/packageinstall.png)
-
-You can unzip the provided file on your packages directory for embedding it into your project, or you can put it anywhere and just add it from package manager.
-Also, you can add it with the git url: https://github.com/MatiM36/ContextClickSelectV2.git?path=/Packages/com.mati36.contextclickselect
 
 ### How to use
 
